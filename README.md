@@ -24,12 +24,11 @@ Trải nghiệm thuê xe thông minh, quản lý lịch sử chuyến đi, xe y�
 Quản lý thông tin người dùng.
 Cập nhật địa chỉ, thông tin cá nhân dễ dàng.
 
-![image](https://github.com/user-attachments/assets/25747872-e9c2-4697-acb7-9f8bacd67c9f)
+![profile](https://github.com/user-attachments/assets/60c897d4-94ac-428e-9a33-74d9ddb7ae95)
 
 #### 🌟 1.1 Cập nhật thông tin
-![udatepf](http![updateavt](https://github.com/user-attachments/assets/80defac4-4d8d-42e9-b12b-c1bda08d6179)
-s://github.com/user-attachments/assets/5fa1396d-20a6-42c1-a8fa-bb5645d89186)
-
+![udatepf](https://github.com/user-attachments/assets/74df247a-1d49-4d62-81e3-9031ec47f28a)
+![updateavt](https://github.com/user-attachments/assets/eabfb949-dbfc-4a53-b04e-2b8b8db173d7)
 
 
 ### 🏠 2. Trang Chủ
