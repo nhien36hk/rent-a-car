@@ -6,6 +6,12 @@
 Thiết kế giao diện tinh tế với màu sắc chủ đạo xanh dương 🌊 (#1a94ff) - mang đến sự chuyên nghiệp, dễ sử dụng.
 Tích hợp thanh toán VNPAY, đảm bảo giao dịch an toàn, nhanh chóng, tiện lợi.
 Trải nghiệm thuê xe thông minh, quản lý lịch sử chuyến đi, xe yêu thích, và thông tin cá nhân chi tiết.
+
+## USECASE Tổng quát
+![Picture1](https://github.com/user-attachments/assets/7210abcd-9552-4044-9fe7-4758100abaa8)
+## Sơ đồ ERD
+![sơ đồ cơ sở dữ liệu](https://github.com/user-attachments/assets/548380d3-e200-41c8-8a8f-ebc83f3383e6)
+
 ## 🚀 Các trang chính
 
 ![image](https://github.com/user-attachments/assets/c57d1a6c-72df-49c8-bbab-b29abc67b885)
