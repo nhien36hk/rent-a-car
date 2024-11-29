@@ -42,10 +42,10 @@ Tìm kiếm nhanh chóng theo nhu cầu.
 ### 🚘 3. Trang Chi Tiết Xe
 Hiển thị thông tin xe chi tiết.
 Tích hợp tùy chọn đặt xe hoặc thêm vào danh sách yêu thích.
-
-![image](https://github.com/user-attachments/assets/61ff72e2-8141-46ca-8468-bb2d1ecee981)
-
-![image](https://github.com/user-attachments/assets/8f5f62c9-b68b-450a-9639-ffb10b340088)
+![Picture17](https://github.com/user-attachments/assets/6f294d95-8664-46e2-914a-d9ba778ca039)
+![Picture18](https://github.com/user-attachments/assets/20e3688a-e810-4f17-9bc9-f21a88e2a47c)
+![Picture19](https://github.com/user-attachments/assets/c33eed7e-929d-4022-bef3-10f08198c70a)
+![Picture20](https://github.com/user-attachments/assets/360d1fa6-e4b4-418b-ad6c-28a3c7c5d346)
 
 #### 3.1 Tính tiền tự động
 ![Picture12](https://github.com/user-attachments/assets/f6d0a65d-c2ef-4778-b51c-0442b9b59c72)
