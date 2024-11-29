@@ -1,4 +1,4 @@
-![Picture10](https://github.com/user-attachments/assets/4d6a8aa9-64fe-4251-a774-c7a41b548da3)# 🚗 WEB THUÊ XE - TÍCH HỢP THANH TOÁN VNPAY 🚗
+# 🚗 WEB THUÊ XE - TÍCH HỢP THANH TOÁN VNPAY 🚗
 ## 🔥 Dự án đồ án chuyên ngành CNTT
 ## Sử dụng Framework Laravel kết hợp HTML, CSS, JavaScript thuần, mang đến trải nghiệm thuê xe chuyên nghiệp và hiện đại!
 
